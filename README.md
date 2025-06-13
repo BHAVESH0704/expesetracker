@@ -1,4 +1,5 @@
 #🧾 Expense Tracker — Tkinter | SQLite | Matplotlib
+
 This is a simple and user-friendly Expense Tracker desktop app built using Python. The project was developed during my internship at Sami Infotech, offered through the AICTE internship program.
 
 The tracker allows users to easily add, view, and delete expenses, categorize them, and track them by date. It also offers a pie chart visualization to give a clear snapshot of where the money is going. The app uses Tkinter for the graphical interface, SQLite for backend storage, and Matplotlib for data visualization.
